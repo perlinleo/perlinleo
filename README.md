@@ -7,5 +7,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perlinleo&exclude_repo=ml_bmstu&layout=compact&langs_count=9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]()
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=perlinleo)](https://git.io/streak-stats)
 ![Leonid Perlin`s GitHub stats](https://github-readme-stats.vercel.app/api?username=perlinleo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
