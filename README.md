@@ -1,5 +1,5 @@
 
-<h1> Contact me via: 
+<h1>
 <a href="https://www.t.me/perlinleonid">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="drawing" width="50"/>
 <a/>
