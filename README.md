@@ -1,3 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perlinleo&exclude_repo=ml_bmstu&layout=compact&langs_count=9&hide=html&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perlinleo&exclude_repo=ml_bmstu&layout=compact&langs_count=15&hide=jupyter%20notebook,html)]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=perlinleo)](https://git.io/streak-stats)
-![Leonid Perlin`s GitHub stats](https://github-readme-stats.vercel.app/api?username=perlinleo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Leonid Perlin`s GitHub stats](https://github-readme-stats.vercel.app/api?username=perlinleo&show_icons=true)
